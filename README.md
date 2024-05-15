@@ -1,4 +1,4 @@
-# bike_stations.html
+
 # Citi Bike Map Visualization
 
 This repository contains code to create an interactive map that visualizes Citi Bike station locations and details in New York City using Leaflet.js and D3.js. The map displays bike stations, their locations, and capacities using markers and popups.
